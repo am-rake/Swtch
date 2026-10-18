@@ -1,0 +1,6 @@
+{
+  "name": "swtch - Smart iPhone & Carrier Switch Engine",
+  "description": "Compare iPhone models (13 Pro Max to 18 Pro Max and 16e), outright vs Affirm vs carrier promotions, 24/36-month total cost calculator, custom Value Scoring system, and step-by-step activation guide from Straight Talk iPhone 11.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
